@@ -1,0 +1,38 @@
+*{
+pading:0px;
+margin:0px;
+}
+
+.pg_all {
+width:1920px;
+height:976px;
+margin:0px auto;
+background:#7e9bc7 url(../imgs/pg_all.jpg);
+}
+
+#pg_head h1{
+font-size:50px;
+font-weight:blod;
+color:#506197;
+text-align:center;
+padding:80px;
+}
+
+#pg_Main_nav{
+font-size:30px;
+font-weight:blod;
+width:1500px;
+heigth:50px;
+color:#000000;
+text-align:center;
+margin:auto;
+}
+
+#pg_cont1 p{
+font-size:40px;
+padding:120px 40px 0px 40px;
+}
+#pg_cont2 p{
+font-size:40px;
+padding:0px 40px 10px 40px;
+}
