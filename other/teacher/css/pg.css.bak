@@ -1,0 +1,126 @@
+
+
+ /*定义类别选择器，Class选择器*/
+.pg_all{
+width:997px;
+height:800px;
+margin:0px auto; /*整个页面自动居中*/
+background:#ffe7cd;	
+
+}
+
+ /*定义ID选择器，页面中必须是唯一的元素*/
+#pg_head{
+width:997px;
+height:180px;
+background:#ffe7cd url("../imgs/chinaLogo.jpg") no-repeat;
+float:left;
+}
+
+
+#pg_Main_nav{
+width:997px;
+height:40px;
+background:#f88475 ;
+float:left;	
+}
+/*定义pg_Main_nav选择器中的ul元素的样式*/
+#pg_Main_nav ul{
+list-style:none;
+text-align:center;
+padding-left:3px;
+}
+
+a{
+text-decoration:none;
+display:block;
+}
+/*定义pg_Main_nav选择器中的li元素的样式*/
+#pg_Main_nav li{
+width:123px;
+height:38px;
+background:#DDD;
+border-right:#f88475 1px solid;
+float:left;
+}
+
+ a:link{
+    width:123px;
+height:38px;
+font-size:18px;
+color:#f88475;
+line-height:38px;
+}
+
+#pg_Main_nav a:visited{
+width:123px;
+height:38px;
+font-size:12px;
+line-height:38px;
+color:#FFF;
+background:#DDD;
+
+}
+
+#pg_Main_nav a:hover{
+width:123px;
+height:38px;
+font-size:22px;
+line-height:38px;
+color:#DDD;
+background:#f88475;
+
+}
+
+
+
+
+/* 定义段落首行缩进2个字，颜色为红色*/
+p{
+  text-indent: 2em;
+  color: red; 
+  line-height:1.8em;
+}
+
+
+/* 定义后代选择器，复合选择器；pg_head盒子中的h1的显示效果*/
+#pg_head h1{
+  font-size:50px;
+  font-weight:bold;
+  padding:80px 300px 20px 300px;  
+}
+
+
+#pg_cont{
+width: 997px;
+height: 480px;
+float:left;
+}
+
+#cont_1{
+width:596px;
+height:480px;
+padding:10px;
+background:#f88475 url("../imgs/timg.jpg");
+float:right;
+}	
+
+
+#cont_1 p{
+  text-indent: 2em;
+  color: #000; 
+  line-height:1.8em;
+}
+
+#cont_2{
+width:380px;
+height:480px;	
+float:left;
+border-right:1px #f88475 solid;
+}	
+
+#cont_2 ul{
+list-style:none;
+text-align:center;
+padding-left:3px;
+}

@@ -1,13 +1,13 @@
 *{
-pading:0px;
+padding:0px;
 margin:0px;
 }
 
 .pg_all {
-width:1920px;
-height:976px;
+width:1200px;
+height:1512px;
 margin:0px auto;
-background:#7e9bc7 url(../imgs/pg_all.jpg);
+background:#7e9bc7 url(../imgs/pg.jpg);
 }
 
 #pg_head h1{
@@ -21,11 +21,52 @@ padding:80px;
 #pg_Main_nav{
 font-size:30px;
 font-weight:blod;
-width:1500px;
+width:1200px;
 heigth:50px;
 color:#000000;
 text-align:center;
 margin:auto;
+}
+
+#pg_Main_nav ul{
+list-style:none;
+text-align:center;
+padding-left:3px;
+}
+
+#pg_Main_nav li{
+width:123px;
+height:38px;
+border-right:none 1px solid;
+float:left;
+}
+
+a:link{
+width:123px;
+height:38px;
+font-size:18px;
+color:#f88475;
+line-height:38px;
+}
+
+#pg_Main_nav a:visited{
+width:123px;
+height:38px;
+font-size:12px;
+line-height:38px;
+color:#FFF;
+background:#DDD;
+
+}
+
+#pg_Main_nav a:hover{
+width:123px;
+height:38px;
+font-size:22px;
+line-height:38px;
+color:#DDD;
+background:#f88475;
+
 }
 
 #pg_cont1 p{

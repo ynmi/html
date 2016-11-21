@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>中国传统节日详细介绍</title>
+	<link href="css/pg.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<div class="pg_all">
+	<div id="pg_head">
+		<h1>中国传统节日</h1>
+	</div>	
+	<div id="pg_Main_nav">
+		<ul>
+			<li><a href="html/01.html">春节</a></li>
+			<li><a href="html/02.html">元宵节</a></li>
+			<li><a href="html/03.html">清明节</a></li>
+			<li><a href="html/04.html">端午节</a></li>
+			<li><a href="html/05.html">七夕节</a></li>
+			<li><a href="html/06.html">重阳节</a></li>
+			<li><a href="html/07.html">中秋节</a></li>
+			<li><a href="html/08.html">作业</a></li>
+		</ul>
+	</div>	
+	<div id="pg_cont">	
+		<div id="cont_1">
+			<p>传统节日形成，是一个民族或国家历史文化长期积淀凝聚的过程。中国传统节日多种多样，是我中国悠久历史文化的一个重要组成部分。从远古先民时期发展而来的中华传统节日清晰地记录着中华民族丰富而多彩的社会生活文化内容。</p>
+			<p>中国的传统节日有除夕（大年三十）、春节（正月初一）、元宵节（正月十五）、清明节（4月5日）、端午节（农历五月初五）、七夕节（农历七月初七）、中秋节（农历八月十五）、重阳节（农历九月初九）、腊八节（农历十二月初八） 等。</p>
+			<p>此外，我国各少数民族也都保留着自己的传统节日，诸如傣族的泼水节、蒙古族的那达慕大会、彝族的火把节、瑶族的达努节、白族的三月街、壮族的歌圩、藏族的藏历年和望果节、苗族的跳花节等。</p>
+			<img src="imgs/timg.jpg" alt="zhonguojie"/>
+		</div>	
+		<div id="cont_2">
+			<ul>
+				<li><a href="html/01.html">春节</a></li>
+				<li><a href="html/02.html">元宵节</a></li>
+				<li><a href="html/03.html">清明节</a></li>
+				<li><a href="html/04.html">端午节</a></li>
+				
+		</ul>
+		<p>传统节日形成，是一个民族或国家历史文化长期积淀凝聚的过程。中国传统节日多种多样，是我中国悠久历史文化的一个重要组成部分。从远古先民时期发展而来的中华传统节日清晰地记录着中华民族丰富而多彩的社会生活文化内容。</p>
+		<img src="imgs/timg.jpg" alt="zhonguojie"/>
+		</div>
+	</div>
+	<div id="pg_footer">	
+		<hr>
+		<p>WebBegin提供的内容仅用于学习。我们不保证内容的正确性。通过使用本站内容随之而来的风险与本站无关。版权所有，保留一切权利。未经书面许可，不得转载。</p>
+        <p>如果您发现本站点及其内容包含错误，请联系我们以便这些错误得到及时地更正：
+cedarbird99#qq.com （发邮件时请把 # 改为 @）</p>
+
+			
+	</div>	
+</div>			 
+</body>
+</html>
